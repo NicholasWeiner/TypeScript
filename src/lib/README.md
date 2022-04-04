@@ -1,10 +1,10 @@
 # Read this!
 
-The files within this directory are copied and deployed with TypeScript as the set of APIs  available as a part of the JavaScript language.
+The files within this directory are copied and deployed with TypeScript as the set of APIs available as a part of the JavaScript language.
 
 There are three main domains of APIs in `src/lib`:
  
- - **ECMAScript language features** - e.g. JavaScript APIs like functions on Array etc which are documented in [ECMA-262](https://tc39.es/ecma262/)
+ - **ECMAScript language features** - e.g. JavaScript APIs (like functions on Array, arrow functions, etc.) which are documented in [ECMA-262](https://tc39.es/ecma262/)
  - **DOM APIs** - e.g. APIs which are available in web browsers
  - **Intl APIs** - e.g. APIs scoped to `Intl` which are documented in [ECMA-402](https://www.ecma-international.org/publications-and-standards/standards/ecma-402/)
 
